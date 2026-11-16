@@ -1,0 +1,18 @@
+# Source dataset (download separately)
+data/*.csv
+data/*.zip
+
+# R / Quarto temporary files
+.Rhistory
+.RData
+.Rproj.user/
+.quarto/
+_freeze/
+*_files/
+*.utf8.md
+*.knit.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
